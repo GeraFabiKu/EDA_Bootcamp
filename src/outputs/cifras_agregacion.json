@@ -1,0 +1,27 @@
+{
+  "filas_fuente": 6889044,
+  "fuas": 8685,
+  "celdas_totales": 33900,
+  "dias_distintos": 213,
+  "fecha_min": "2025-04-15",
+  "fecha_max": "2025-11-13",
+  "fuas_con_nº_celdas_constante_en_todos_los_dias_pct": 4.0,
+  "celdas_por_fua_min": 1,
+  "celdas_por_fua_mediana": 2.0,
+  "celdas_por_fua_max": 187,
+  "dias_por_fua_min": 151,
+  "dias_por_fua_max": 213,
+  "diferencia_A_B_fua_mediana": 0.0032,
+  "diferencia_A_B_fua_max": 0.4519,
+  "diferencia_pais_mediana": 0.0041,
+  "diferencia_pais_max": 0.0451,
+  "efecto_h3": {
+    "n": 46,
+    "pendiente_A": -0.3186151838897798,
+    "p_A_HC3": 0.0322354177859358,
+    "pendiente_B": -0.31846216677531036,
+    "p_B_HC3": 0.032126961831592915,
+    "r_A": -0.27839253448051027,
+    "r_B": -0.27821189051046064
+  }
+}

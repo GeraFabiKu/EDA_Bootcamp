@@ -1,0 +1,6 @@
+﻿variable,valor_espana,n_europa_otros,mediana_europa_otros,min_europa_otros,max_europa_otros,posicion
+cuota_parque_pct,1.8,17,5.8,0.12,35.0,"5.º entre los 18 países con dato, España incluida (1 = el valor más bajo)"
+cuota_ventas_pct,11.0,30,16.0,2.5,92.0,11.º de 31 observaciones (España incluida y 30 países europeos de referencia; 1 = el valor más bajo)
+puntos_por_1000_hab,0.837,17,2.217,0.06,10.448,"4.º entre los 18 países con dato, España incluida (1 = el valor más bajo)"
+cambio_co2_pc_pct,1.642,30,-2.173,-37.803,50.033,17.º de 31 observaciones (España incluida y 30 países europeos de referencia; 1 = el valor más bajo)
+no2_2025,18.243,30,16.632,13.464,19.711,28.º de 31 observaciones (España incluida y 30 países europeos de referencia; 1 = el valor más bajo)

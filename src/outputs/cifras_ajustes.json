@@ -1,0 +1,21 @@
+{
+  "principal_nominal": {
+    "H1": 0.105828,
+    "H2": 0.020805,
+    "H3": 0.032235
+  },
+  "principal_holm": {
+    "H2": 0.062415,
+    "H3": 0.064471,
+    "H1": 0.105828
+  },
+  "principal_bh": {
+    "H1": 0.105828,
+    "H3": 0.048353,
+    "H2": 0.048353
+  },
+  "ventana_h1_2015_2019_holm_familia_V": 0.017728,
+  "ventana_h1_2015_2019_holm_total": 0.049638,
+  "m_principal": 3,
+  "m_total": 14
+}

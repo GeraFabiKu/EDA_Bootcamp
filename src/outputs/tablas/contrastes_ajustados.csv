@@ -1,0 +1,32 @@
+familia,contraste,p_nominal_HC3,p_holm,p_bh,significativo_nominal,significativo_holm,significativo_bh
+P_principal,H1,0.105828,0.105828,0.105828,False,False,False
+P_principal,H2,0.020805,0.062415,0.048353,True,False,True
+P_principal,H3,0.032235,0.064471,0.048353,True,False,True
+E_especificaciones,H1 · sin controles · cuota_2023,0.105828,0.529139,0.169479,False,False,False
+E_especificaciones,H1 · con renta · cuota_2023,0.290100,0.585313,0.326362,False,False,False
+E_especificaciones,H2 · sin controles · puntos_por_1000_hab,0.020805,0.187246,0.101771,True,False,False
+E_especificaciones,H2 · con renta · puntos_por_1000_hab,0.057357,0.344142,0.129053,False,False,False
+E_especificaciones,H2 · con los tres controles · puntos_por_1000_hab,0.033924,0.257883,0.101771,True,False,False
+E_especificaciones,H3 · simple · cuota_parque_pct,0.032235,0.257883,0.101771,True,False,False
+E_especificaciones,H3 · con renta · cuota_parque_pct,0.112986,0.529139,0.169479,False,False,False
+E_especificaciones,H3 · con urbanización y densidad · cuota_parque_pct,0.195104,0.585313,0.250849,False,False,False
+E_especificaciones,H3 · con los tres controles · cuota_parque_pct,0.723837,0.723837,0.723837,False,False,False
+V_ventanas_H1,H1 2015–2019 sin controles,0.003546,0.017728,0.017728,True,True,True
+V_ventanas_H1,H1 2015–2019 con renta,0.689674,0.734979,0.689674,False,False,False
+V_ventanas_H1,H1 2000–2023 sin controles,0.183745,0.734979,0.381147,False,False,False
+V_ventanas_H1,H1 2000–2023 con renta,0.304918,0.734979,0.381147,False,False,False
+V_ventanas_H1,H1 2015–2023 con contexto,0.233398,0.734979,0.381147,False,False,False
+E+V_total,H1 · sin controles · cuota_2023,0.105828,0.952451,0.225972,False,False,False
+E+V_total,H1 · con renta · cuota_2023,0.290100,1.000000,0.355737,False,False,False
+E+V_total,H2 · sin controles · puntos_por_1000_hab,0.020805,0.270466,0.118732,True,False,False
+E+V_total,H2 · con renta · puntos_por_1000_hab,0.057357,0.573569,0.160599,False,False,False
+E+V_total,H2 · con los tres controles · puntos_por_1000_hab,0.033924,0.386825,0.118732,True,False,False
+E+V_total,H3 · simple · cuota_parque_pct,0.032235,0.386825,0.118732,True,False,False
+E+V_total,H3 · con renta · cuota_parque_pct,0.112986,0.952451,0.225972,False,False,False
+E+V_total,H3 · con urbanización y densidad · cuota_parque_pct,0.195104,1.000000,0.303496,False,False,False
+E+V_total,H3 · con los tres controles · cuota_parque_pct,0.723837,1.000000,0.723837,False,False,False
+E+V_total,V: H1 2015–2019 sin controles,0.003546,0.049638,0.049638,True,True,True
+E+V_total,V: H1 2015–2019 con renta,0.689674,1.000000,0.723837,False,False,False
+E+V_total,V: H1 2000–2023 sin controles,0.183745,1.000000,0.303496,False,False,False
+E+V_total,V: H1 2000–2023 con renta,0.304918,1.000000,0.355737,False,False,False
+E+V_total,V: H1 2015–2023 con contexto,0.233398,1.000000,0.326758,False,False,False

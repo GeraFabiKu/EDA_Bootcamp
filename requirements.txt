@@ -1,0 +1,14 @@
+# Dependencias del análisis (src/utils y scripts generar_*.py).
+# Versiones verificadas en el entorno de desarrollo: Python 3.10.12, Linux.
+# No verificado en Windows ni macOS.
+pandas==2.3.3
+numpy==2.2.6
+scipy==1.15.3
+statsmodels==0.15.0
+matplotlib==3.10.9
+seaborn==0.13.2
+openpyxl==3.1.5
+# Para abrir y ejecutar src/main.ipynb se necesita además Jupyter (jupyter o notebook).
+# No se ha instalado ni verificado su versión en el entorno de desarrollo; ver README.md.
+# Opcional: solo para datos.cargar_wdi() (regenerar los wdi_*.csv desde WDIEXCEL.xlsx). No la usa el notebook.
+# python-calamine==0.8.3

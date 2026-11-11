@@ -1,0 +1,20 @@
+# Entornos virtuales y credenciales
+.venv/
+venv/
+.env
+
+# Datos muy pesados (no incluidos en el repositorio)
+src/data/FUA_*_TimeSeries_2025.csv
+src/data/WDIEXCEL.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini

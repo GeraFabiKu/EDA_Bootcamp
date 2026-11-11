@@ -1,0 +1,28 @@
+modelo,n,variable,errores,coef,EE,p
+H1 sin controles,46,cuota_2023,clasico,-1.4715,0.5681,0.013
+H1 sin controles,46,cuota_2023,HC1,-1.4715,0.5078,0.0038
+H1 sin controles,46,cuota_2023,HC3,-1.4715,0.9099,0.1058
+H1 con renta,46,cuota_2023,clasico,-0.3678,0.5898,0.5362
+H1 con renta,46,cuota_2023,HC1,-0.3678,0.2816,0.1915
+H1 con renta,46,cuota_2023,HC3,-0.3678,0.3477,0.2901
+H3 sin controles,46,cuota_parque_pct,clasico,-0.3186,0.1657,0.061
+H3 sin controles,46,cuota_parque_pct,HC1,-0.3186,0.1072,0.0029
+H3 sin controles,46,cuota_parque_pct,HC3,-0.3186,0.1488,0.0322
+H3 con renta,46,cuota_parque_pct,clasico,-0.1894,0.1933,0.3328
+H3 con renta,46,cuota_parque_pct,HC1,-0.1894,0.1006,0.0598
+H3 con renta,46,cuota_parque_pct,HC3,-0.1894,0.1195,0.113
+H3 con urbanización y densidad,46,cuota_parque_pct,clasico,-0.2798,0.167,0.1012
+H3 con urbanización y densidad,46,cuota_parque_pct,HC1,-0.2798,0.132,0.0341
+H3 con urbanización y densidad,46,cuota_parque_pct,HC3,-0.2798,0.2159,0.1951
+H3 con los tres controles,46,cuota_parque_pct,clasico,-0.0527,0.1801,0.7712
+H3 con los tres controles,46,cuota_parque_pct,HC1,-0.0527,0.0999,0.5978
+H3 con los tres controles,46,cuota_parque_pct,HC3,-0.0527,0.1492,0.7238
+H2 sin controles,43,puntos_por_1000_hab,clasico,1.7149,0.303,0.0
+H2 sin controles,43,puntos_por_1000_hab,HC1,1.7149,0.6103,0.005
+H2 sin controles,43,puntos_por_1000_hab,HC3,1.7149,0.7419,0.0208
+H2 con renta,43,puntos_por_1000_hab,clasico,1.3834,0.337,0.0002
+H2 con renta,43,puntos_por_1000_hab,HC1,1.3834,0.5808,0.0172
+H2 con renta,43,puntos_por_1000_hab,HC3,1.3834,0.7279,0.0574
+H2 con los tres controles,43,puntos_por_1000_hab,clasico,1.4408,0.3334,0.0001
+H2 con los tres controles,43,puntos_por_1000_hab,HC1,1.4408,0.5377,0.0074
+H2 con los tres controles,43,puntos_por_1000_hab,HC3,1.4408,0.6793,0.0339
